@@ -3,6 +3,7 @@ name: Deploying startupHQ
 on:
   push:
     branches:
+      - master
       - production
 
 jobs:
