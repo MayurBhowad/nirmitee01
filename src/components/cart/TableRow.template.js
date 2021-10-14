@@ -56,14 +56,14 @@ function TableRowTemp() {
                 <td style={{ textAlign: 'center' }} class="tg-0lax">
                     <h4>This is Title of Product one</h4>
                 </td>
-                <td style={{ textAlign: 'center' }} class="tg-0lax">4/td>
-                    <td style={{ textAlign: 'center' }} className={classes.quantity}>
-                        <p>-</p>
-                        <h4>3</h4>
-                        <p>+</p>
-                    </td>
-                    <td style={{ textAlign: 'center' }} className={classes.removeBtn}><p>X</p></td>
-                    <td style={{ textAlign: 'right' }} class="tg-0lax">Rs. 599.00/-</td>
+                <td style={{ textAlign: 'center' }} class="tg-0lax">6</td>
+                <td style={{ textAlign: 'center' }} className={classes.quantity}>
+                    <p>-</p>
+                    <h4>3</h4>
+                    <p>+</p>
+                </td>
+                <td style={{ textAlign: 'center' }} className={classes.removeBtn}><p>X</p></td>
+                <td style={{ textAlign: 'right' }} class="tg-0lax">Rs. 599.00/-</td>
             </tr>
         </>
     )
